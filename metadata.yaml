@@ -1,0 +1,33 @@
+_repo: Jewel-s-Story-Book_16448
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnham, Clara Louise
+    alias: Burnham, Clara Louise Root
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '1017'
+    url: http://www.gutenberg.org/2009/agents/1017
+description: ''
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Storytelling -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Amusements -- Juvenile fiction'
+- !lcsh 'Christian Science -- Juvenile fiction'
+- !lcsh 'Grandfathers -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+title: Jewel's Story Book
+url: http://www.gutenberg.org/ebooks/16448

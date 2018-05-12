@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1017'
     url: http://www.gutenberg.org/2009/agents/1017
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16448#Jewel-s-Story-Book
 gutenberg_issued: '2005-08-05'
 gutenberg_type: Text
 identifiers:
